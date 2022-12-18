@@ -1,0 +1,17 @@
+D:\Windows数据移动到此文件夹\Documents\GitHub\PortableSoft-Manager\PortableSoft-Manager\PortableSoft-Manager\bin\Release\PortableSoftManager.exe.config
+D:\Windows数据移动到此文件夹\Documents\GitHub\PortableSoft-Manager\PortableSoft-Manager\PortableSoft-Manager\bin\Release\PortableSoftManager.exe
+D:\Windows数据移动到此文件夹\Documents\GitHub\PortableSoft-Manager\PortableSoft-Manager\PortableSoft-Manager\bin\Release\PortableSoftManager.pdb
+D:\Windows数据移动到此文件夹\Documents\GitHub\PortableSoft-Manager\PortableSoft-Manager\PortableSoft-Manager\bin\Release\AutocompleteMenu.dll
+D:\Windows数据移动到此文件夹\Documents\GitHub\PortableSoft-Manager\PortableSoft-Manager\PortableSoft-Manager\bin\Release\CSharpUtil.dll
+D:\Windows数据移动到此文件夹\Documents\GitHub\PortableSoft-Manager\PortableSoft-Manager\PortableSoft-Manager\obj\Release\PortableSoft-Manager.csproj.AssemblyReference.cache
+D:\Windows数据移动到此文件夹\Documents\GitHub\PortableSoft-Manager\PortableSoft-Manager\PortableSoft-Manager\obj\Release\PortableSoft-Manager.csproj.SuggestedBindingRedirects.cache
+D:\Windows数据移动到此文件夹\Documents\GitHub\PortableSoft-Manager\PortableSoft-Manager\PortableSoft-Manager\obj\Release\PortableSoftManager.exe.config
+D:\Windows数据移动到此文件夹\Documents\GitHub\PortableSoft-Manager\PortableSoft-Manager\PortableSoft-Manager\obj\Release\PortableSoftManager.FrmFiles.resources
+D:\Windows数据移动到此文件夹\Documents\GitHub\PortableSoft-Manager\PortableSoft-Manager\PortableSoft-Manager\obj\Release\PortableSoftManager.FrmStart.resources
+D:\Windows数据移动到此文件夹\Documents\GitHub\PortableSoft-Manager\PortableSoft-Manager\PortableSoft-Manager\obj\Release\PortableSoftManager.FrmTray.resources
+D:\Windows数据移动到此文件夹\Documents\GitHub\PortableSoft-Manager\PortableSoft-Manager\PortableSoft-Manager\obj\Release\PortableSoftManager.Properties.Resources.resources
+D:\Windows数据移动到此文件夹\Documents\GitHub\PortableSoft-Manager\PortableSoft-Manager\PortableSoft-Manager\obj\Release\PortableSoft-Manager.csproj.GenerateResource.cache
+D:\Windows数据移动到此文件夹\Documents\GitHub\PortableSoft-Manager\PortableSoft-Manager\PortableSoft-Manager\obj\Release\PortableSoft-Manager.csproj.CoreCompileInputs.cache
+D:\Windows数据移动到此文件夹\Documents\GitHub\PortableSoft-Manager\PortableSoft-Manager\PortableSoft-Manager\obj\Release\PortableSoft-Manager.csproj.CopyComplete
+D:\Windows数据移动到此文件夹\Documents\GitHub\PortableSoft-Manager\PortableSoft-Manager\PortableSoft-Manager\obj\Release\PortableSoftManager.exe
+D:\Windows数据移动到此文件夹\Documents\GitHub\PortableSoft-Manager\PortableSoft-Manager\PortableSoft-Manager\obj\Release\PortableSoftManager.pdb

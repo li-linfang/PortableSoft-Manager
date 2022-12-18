@@ -1,0 +1,8 @@
+D:\Windows数据移动到此文件夹\Documents\GitHub\PortableSoft-Manager\PortableSoft-Manager\AutocompleteMenu\bin\Debug\AutocompleteMenu.dll
+D:\Windows数据移动到此文件夹\Documents\GitHub\PortableSoft-Manager\PortableSoft-Manager\AutocompleteMenu\bin\Debug\AutocompleteMenu.pdb
+D:\Windows数据移动到此文件夹\Documents\GitHub\PortableSoft-Manager\PortableSoft-Manager\AutocompleteMenu\obj\Debug\AutocompleteMenu.csproj.AssemblyReference.cache
+D:\Windows数据移动到此文件夹\Documents\GitHub\PortableSoft-Manager\PortableSoft-Manager\AutocompleteMenu\obj\Debug\AutocompleteMenuNS.AutocompleteMenu.resources
+D:\Windows数据移动到此文件夹\Documents\GitHub\PortableSoft-Manager\PortableSoft-Manager\AutocompleteMenu\obj\Debug\AutocompleteMenu.csproj.GenerateResource.cache
+D:\Windows数据移动到此文件夹\Documents\GitHub\PortableSoft-Manager\PortableSoft-Manager\AutocompleteMenu\obj\Debug\AutocompleteMenu.csproj.CoreCompileInputs.cache
+D:\Windows数据移动到此文件夹\Documents\GitHub\PortableSoft-Manager\PortableSoft-Manager\AutocompleteMenu\obj\Debug\AutocompleteMenu.dll
+D:\Windows数据移动到此文件夹\Documents\GitHub\PortableSoft-Manager\PortableSoft-Manager\AutocompleteMenu\obj\Debug\AutocompleteMenu.pdb
