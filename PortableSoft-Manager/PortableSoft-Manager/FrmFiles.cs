@@ -201,7 +201,7 @@ namespace PortableSoftManager
                         var zipFile = parentPath2 + $"\\{Path.GetFileNameWithoutExtension(file)}.zip";
 
                         addNewItemInBox(groupName, relativePath, fileName);
-                        CSharpUtil.FileUtils.CreatZip(originFile,zipFile);
+                        new Thread(() => CSharpUtil.FileUtils.CreatZip(originFile, zipFile)).Start() ;
                     } else if (Directory.Exists(file))
                     {
                         string retFilePath = FileUtil.FindExecutableProgramWithSameNameAsDirectory(file);
@@ -218,7 +218,7 @@ namespace PortableSoftManager
                             var zipFile = parentPath2 + $"\\{Path.GetFileNameWithoutExtension(file)}.zip";
 
                             addNewItemInBox(groupName, relativePath, Path.GetFileNameWithoutExtension(retFilePath));
-                            CSharpUtil.FileUtils.CreatZip(originFile, zipFile);
+                            new Thread(()=>CSharpUtil.FileUtils.CreatZip(originFile, zipFile)).Start();
                         }
                     }
                 }

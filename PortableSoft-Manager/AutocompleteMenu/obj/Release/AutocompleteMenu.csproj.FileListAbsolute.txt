@@ -6,3 +6,11 @@ D:\Windows数据移动到此文件夹\Documents\GitHub\PortableSoft-Manager\Port
 D:\Windows数据移动到此文件夹\Documents\GitHub\PortableSoft-Manager\PortableSoft-Manager\AutocompleteMenu\obj\Release\AutocompleteMenu.csproj.CoreCompileInputs.cache
 D:\Windows数据移动到此文件夹\Documents\GitHub\PortableSoft-Manager\PortableSoft-Manager\AutocompleteMenu\obj\Release\AutocompleteMenu.dll
 D:\Windows数据移动到此文件夹\Documents\GitHub\PortableSoft-Manager\PortableSoft-Manager\AutocompleteMenu\obj\Release\AutocompleteMenu.pdb
+D:\360MoveData\Users\JVT202107009\Documents\GitHub\PortableSoft-Manager\PortableSoft-Manager\AutocompleteMenu\bin\Release\AutocompleteMenu.dll
+D:\360MoveData\Users\JVT202107009\Documents\GitHub\PortableSoft-Manager\PortableSoft-Manager\AutocompleteMenu\bin\Release\AutocompleteMenu.pdb
+D:\360MoveData\Users\JVT202107009\Documents\GitHub\PortableSoft-Manager\PortableSoft-Manager\AutocompleteMenu\obj\Release\AutocompleteMenu.csproj.AssemblyReference.cache
+D:\360MoveData\Users\JVT202107009\Documents\GitHub\PortableSoft-Manager\PortableSoft-Manager\AutocompleteMenu\obj\Release\AutocompleteMenuNS.AutocompleteMenu.resources
+D:\360MoveData\Users\JVT202107009\Documents\GitHub\PortableSoft-Manager\PortableSoft-Manager\AutocompleteMenu\obj\Release\AutocompleteMenu.csproj.GenerateResource.cache
+D:\360MoveData\Users\JVT202107009\Documents\GitHub\PortableSoft-Manager\PortableSoft-Manager\AutocompleteMenu\obj\Release\AutocompleteMenu.csproj.CoreCompileInputs.cache
+D:\360MoveData\Users\JVT202107009\Documents\GitHub\PortableSoft-Manager\PortableSoft-Manager\AutocompleteMenu\obj\Release\AutocompleteMenu.dll
+D:\360MoveData\Users\JVT202107009\Documents\GitHub\PortableSoft-Manager\PortableSoft-Manager\AutocompleteMenu\obj\Release\AutocompleteMenu.pdb
